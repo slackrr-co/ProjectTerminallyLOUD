@@ -13,12 +13,12 @@
 
 ## Links
 
-Here are the most important links to get you started with HaxeFlixel:
+Here are the most important links to get you started with slackrr:
 
-- [Getting Started](https://haxeflixel.com/documentation/getting-started/)
-- [Documentation](https://haxeflixel.com/documentation)
-- [API](https://api.haxeflixel.com/)
-- [Community](https://haxeflixel.com/documentation/community/)
+- [Slackrr]()
+- [SlackrrGames]()
+- [Fnf mods]()
+- [Project:Terminally LOUD]()
 
 If you want to contribute code or report an issue, please check our [CONTRIBUTING.md](https://github.com/HaxeFlixel/flixel/blob/dev/.github/CONTRIBUTING.md).
 
